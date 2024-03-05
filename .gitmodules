@@ -1,3 +1,9 @@
 [submodule "project"]
 	path = project
 	url = https://github.com/JuwoongKim/Mom.git
+[submodule "library"]
+	path = library
+	url = https://github.com/JuwoongKim/Dad.git
+[submodule "secreteInfo"]
+	path = secreteInfo
+	url = https://github.com/JuwoongKim/Son.git
